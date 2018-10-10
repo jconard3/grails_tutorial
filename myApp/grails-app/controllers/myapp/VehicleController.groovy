@@ -2,5 +2,5 @@ package myapp
 
 class VehicleController {
 
-    def index() { }
+    static scaffold = Vehicle
 }

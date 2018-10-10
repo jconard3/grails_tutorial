@@ -2,5 +2,5 @@ package myapp
 
 class ModelController {
 
-    def index() { }
+    static scaffold = Model
 }

@@ -2,5 +2,5 @@ package myapp
 
 class MakeController {
 
-    def index() { }
+    static scaffold = Make
 }
